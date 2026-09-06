@@ -1,3 +1,17 @@
+> **Sandlot fork.** Adopted 2026-09-06 by [sandlotminecraft](https://github.com/sandlotminecraft)
+> from [ShepherdJerred-minecraft/sthorses](https://github.com/ShepherdJerred-minecraft/sthorses),
+> which has been archived since 2020 and unmaintained since 2017. This plugin runs on the
+> Sandlot `easy` server and has no maintained equivalent.
+>
+> - **Integration branch: `sandlot/release`** — the build surface and the only branch
+>   production jars are built from. `master` mirrors upstream as adopted and is not built.
+> - The badge and Jenkins/wiki links below are upstream's and are dead.
+> - Design, migration plan and operational traps live in the Sandlot admindoc repo
+>   (`plugins/sthorses.md` and `specs/2026-09-06-sthorses-adoption/`), which is private.
+>
+> Licence is unchanged: GPL-3.0, per the original authors — stHorses by tmad40blue,
+> repackaged and extended by Jerred Shepherd.
+
 # stHorses
 [![Build Status](https://ts-mc.net/jenkins/buildStatus/icon?job=sthorses)](https://ts-mc.net/jenkins/job/sthorses/)
 
